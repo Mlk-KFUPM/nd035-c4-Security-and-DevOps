@@ -1,4 +1,6 @@
 package com.udacity.examples.Testing;
+import com.udacity.examples.Testing.Helper;
+
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;
 import java.util.List;
